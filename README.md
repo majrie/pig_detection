@@ -1,6 +1,8 @@
 # pig_detection
 
-Annotations for the 2021 article  will be made available soon [1]. Please use our 2020 article annotations until then [2]. Please follow the link to download 2020 annotations: [Link to 2020 annotations](https://wi2.uni-hohenheim.de/fileadmin/einrichtungen/wi2/Publikationen/COMPAG_105391_Riekert_etal_2020.zip).
+Annotations for the 2021 article [1]: https://github.com/majrie/pig_detection_dataset/raw/main/COMPAG_106213_Riekert_et_al_2021.zip
+
+Annotations for the 2020 article [2]: https://wi2.uni-hohenheim.de/fileadmin/einrichtungen/wi2/Publikationen/COMPAG_105391_Riekert_etal_2020.zip
 
 
 [1] Martin Riekert, Svenja Opderbeck, Andrea Wild, Eva Gallmann, Model selection for 24/7 pig position and posture detection by 2D camera imaging and deep learning, Computers and Electronics in Agriculture, Volume 187, 2021, 106213, ISSN 0168-1699, https://doi.org/10.1016/j.compag.2021.106213.
